@@ -15,7 +15,7 @@
 
 ## Design
 
-* 
+! [delai studio](/home/abdinasir/Desktop/delanii/ Delani Studio.jpg)
 
 ## Installation
 
